@@ -1,0 +1,4 @@
+interface:
+  display_name: "手机六面图去高光还原"
+  short_description: "按型号与颜色核实材质，优先保留手机边框划痕及瑕疵，逐面去除强高光"
+  default_prompt: "使用 $phone-six-view-restore，输入手机六面原图、型号与颜色，使用 Image 2.5 去高光并保留真实瑕疵。"
